@@ -1,0 +1,7 @@
+itemid	label	lower	upper	increased_phen	decreased_phen
+50983	blood sodium	135	145	HP:0003228	HP:0002902
+50809	blood glucose	79	110	HP:0003074	HP:0001943
+50971	blood potassium	3.7	5.2	HP:0002153	HP:0002900
+50902	blood chloride	98	106	HP:0011423	HP:0003113
+51002	troponin i	0.3		HP:0410173	
+51003	troponin t	0.02		HP:0410173	
